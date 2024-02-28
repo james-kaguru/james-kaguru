@@ -1,8 +1,21 @@
 ### Hi there Im Jimmy👋
 
-I’m currently working on Fairway hub. A website that seeks to be the leader in golf digitsisation in Kenya.
+- 🔭 I’m currently working on Fairway hub. A website that seeks to be the leader in golf digitsisation in Kenya.
+- 🌱 I’m currently learning Webgl, webgpu and computer graphics
+- 👯 I’m looking to collaborate on web development project and data science projects.
+<!--
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 😄 Pronouns: ...
+-->
+
+- 📫 How to reach me: jimmykaguru@gmail.com
+- ⚡ Fun fact: I use arch btw :rofl:..just kidding!
 
 ![Jimmy's GitHub stats](https://github-readme-stats.vercel.app/api?username=james-kaguru)
+
+https://github-profile-trophy.vercel.app/?username=james-kaguru&rank=S
+
 <!--
 **james-kaguru/james-kaguru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
