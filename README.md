@@ -8,13 +8,12 @@
 - 💬 Ask me about ...
 - 😄 Pronouns: ...
 -->
-
 - 📫 How to reach me: jimmykaguru@gmail.com
 - ⚡ Fun fact: I use arch btw :rofl:..just kidding!
 
 ![Jimmy's GitHub stats](https://github-readme-stats.vercel.app/api?username=james-kaguru)
 
-https://github-profile-trophy.vercel.app/?username=james-kaguru&rank=S
+![Jimmy's GitHub rank](https://github-profile-trophy.vercel.app/?username=james-kaguru&rank=S)
 
 <!--
 **james-kaguru/james-kaguru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
