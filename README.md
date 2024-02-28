@@ -11,9 +11,11 @@
 - 📫 How to reach me: jimmykaguru@gmail.com
 - ⚡ Fun fact: I use arch btw :rofl:..just kidding!
 
-![Jimmy's GitHub stats](https://github-readme-stats.vercel.app/api?username=james-kaguru&theme=algolia)
+![Jimmy's GitHub stats](https://github-readme-stats.vercel.app/api?username=james-kaguru&theme=github_dark)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=james-kaguru&theme=algolia)](https://github.com/james-kaguru/github-profile-trophy)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=james-kaguru)](https://git.io/streak-stats)
 
 <!--
 **james-kaguru/james-kaguru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
