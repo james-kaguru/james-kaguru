@@ -15,7 +15,7 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=james-kaguru&theme=algolia)](https://github.com/james-kaguru/github-profile-trophy)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=james-kaguru)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=james-kaguru&theme=github_dark)](https://git.io/streak-stats)
 
 <!--
 **james-kaguru/james-kaguru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
