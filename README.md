@@ -2,7 +2,7 @@
 
 I’m currently working on Fairway hub. A website that seeks to be the leader in golf digitsisation in Kenya.
 
-![Jimmy's GitHub stats](https://github-readme-stats.vercel.app/api?username=james-kaguru&hide=contribs,prs)
+![Jimmy's GitHub stats](https://github-readme-stats.vercel.app/api?username=james-kaguru)
 <!--
 **james-kaguru/james-kaguru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
