@@ -10,7 +10,7 @@
 
 - 📝 I regularly write articles on [https://dev.to/jameskaguru](https://dev.to/jameskaguru)
 
-- 💬 Ask me about **svelte, restapis, cloud, devops, data science**
+- 💬 Ask me about **svelte, restapis, cloud, devops, data science and computer graphics**
 
 - 📫 How to reach me **jimmykaguru@gmail.com**
 
