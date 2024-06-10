@@ -4,7 +4,7 @@
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=james-kaguru" alt="james-kaguru" /></a> </p> -->
 
-- 🔭 I’m currently working on [Fairway hub](https://fairwayhub.app)
+<!-- - 🔭 I’m currently working on [Fairway hub](https://fairwayhub.app) -->
 
 - 🌱 I’m currently learning **webgl, webgpu and computer graphics**
 
